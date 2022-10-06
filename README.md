@@ -22,3 +22,15 @@ Add the Url:\
 ![img_2.png](img_2.png)
 _Tools -> Board Manager -> search esp32 -> download the last version_\
 
+
+# **How to use esp32**
+
+1. 设备(电脑等)连接 2.4G WIFI
+2. WIFI: MIX4
+3. PW: andyhui8
+4. 进去网站： http://192.168.134.229/
+5. 选择需要的资源： 如：
+http://192.168.134.229/1600x1200.mjpeg
+6. 有图片，视频，不同size 可选！
+7. main.py 调用有bug待解决
+8. 可以尝试YOLOV5 等直接获取连接URL 数据进行分析

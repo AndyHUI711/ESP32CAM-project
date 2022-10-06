@@ -4,10 +4,19 @@ import matplotlib.pyplot as plt
 import cvlib as cv
 import numpy as np
 from cvlib.object_detection import draw_bbox
-import  concurrent.futures
+import concurrent.futures
 
-url = "http://"
+url = "http://192.168.134.229/1600x1200.mjpeg"
 im = None
+
+"""
+http://192.168.134.229
+ /cam.bmp
+ /cam-lo.jpg
+ /cam-hi.jpg
+ /cam.jpg
+ /cam.mjpeg
+"""
 
 def run1():
     cv2.namedWindow("live transmission", cv2.WINDOW_AUTOSIZE)
