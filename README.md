@@ -37,6 +37,6 @@ http://192.168.134.229/1600x1200.mjpeg
 
 # **Reference**
 
-1.https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/#Source_CodeProgram_for_ESP32_CAM_Module\
-2.https://www.youtube.com/watch?v=RU5aQI8DSH4\
+1.https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/#Source_CodeProgram_for_ESP32_CAM_Module
+2.https://www.youtube.com/watch?v=RU5aQI8DSH4
 3.http://yoyolife.fun/article/120
