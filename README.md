@@ -34,3 +34,9 @@ http://192.168.134.229/1600x1200.mjpeg
 6. 有图片，视频，不同size 可选！
 7. main.py 调用有bug待解决
 8. 可以尝试YOLOV5 等直接获取连接URL 数据进行分析
+
+# **Reference**
+
+1.https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/#Source_CodeProgram_for_ESP32_CAM_Module
+2.https://www.youtube.com/watch?v=RU5aQI8DSH4
+3.http://yoyolife.fun/article/120
